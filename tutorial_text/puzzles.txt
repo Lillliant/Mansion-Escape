@@ -1,0 +1,5 @@
+You are someone who's trapped in a strange mansion, and your objective is to escape. Look for keys scattered across the house, and when you find the key to the front door, you can escape.
+
+You can find these keys by searching through objects. Look around and play with the objects, since some keys require you to manipulate other objects first before you can find it. Some others are locked inside objects, and you'll need to look around the room to find clues for the password.
+
+Happy escaping!
