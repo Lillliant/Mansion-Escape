@@ -7,15 +7,14 @@
 //from the changing of state from other optionItems before
 //being able to take inputs or other manipulations.
  
-import javax.swing.*;
-import java.awt.*;
-import java.awt.event.*;
-import java.io.*;
-import javax.imageio.*;
-import java.util.Scanner;
+import java.awt.Color;
+import java.awt.Font;
+import java.awt.Graphics;
+import java.awt.Image;
+import java.awt.Rectangle;
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.nio.file.*;
+
+import javax.swing.ImageIcon;
 
 public class OptionItem{
 	//

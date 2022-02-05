@@ -6,12 +6,13 @@
 //determines what happens when the user interacts with it.
 //The object will also change image (animation) when it moves.
 
-import javax.swing.*;
-import java.awt.*;
-import java.awt.image.*; 
-import java.io.*;
-import javax.imageio.*;
+import java.awt.Graphics;
+import java.awt.Image;
+import java.awt.Rectangle;
+import java.awt.image.BufferedImage;
 import java.util.Arrays;
+
+import javax.swing.ImageIcon;
 
 public class Player{
 	//the position of the player (top left corner)

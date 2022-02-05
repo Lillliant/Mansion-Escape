@@ -5,11 +5,23 @@
 //user can start a new run from scratch or cotinue their previous progress.
 //User can also access tutorial from this JFrame.
 
-import javax.swing.*;
-import java.awt.*;
-import java.awt.event.*;
+import java.awt.Color;
+import java.awt.Dimension;
+import java.awt.Font;
+import java.awt.Graphics;
+import java.awt.Image;
 import java.awt.MouseInfo;
-import java.io.*;
+import java.awt.Point;
+import java.awt.Rectangle;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.awt.event.MouseEvent;
+import java.awt.event.MouseListener;
+
+import javax.swing.ImageIcon;
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.Timer;
 
 public class MainMenu extends JFrame implements ActionListener{
 	Timer myTimer; //determines time interval for update

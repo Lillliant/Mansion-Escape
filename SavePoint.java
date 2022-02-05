@@ -5,16 +5,14 @@
 //object while the Escaperoom panel is showing, then the game will save
 //data to datafiles.
 
-import javax.swing.*;
-import java.awt.*;
-import java.awt.event.*;
-
-import java.io.*;
-import javax.imageio.*;
-import java.util.Scanner;
+import java.awt.Color;
+import java.awt.Font;
+import java.awt.Graphics;
+import java.awt.Image;
+import java.awt.Rectangle;
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.nio.file.*;
+
+import javax.swing.ImageIcon;
 
 public class SavePoint {
 	

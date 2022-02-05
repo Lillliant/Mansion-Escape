@@ -5,12 +5,11 @@
 //In the game, BasicEnemy objects will move independently from the user's movement.
 //When these object collide at a certain area, the user is "killed".
 
-import javax.swing.*;
-import java.awt.*;
-import java.awt.event.*;
-import java.io.*;
-import javax.imageio.*;
-import java.util.Arrays;
+import java.awt.Graphics;
+import java.awt.Image;
+import java.awt.Rectangle;
+
+import javax.swing.ImageIcon;
 
 public class BasicEnemy{
 	

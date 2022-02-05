@@ -5,16 +5,16 @@
 //user is at, and saving when necessary. Also coordinates the drawing of the panel
 //and components.
 
-import javax.swing.*;
-import java.awt.*;
-import java.awt.event.*;
-import java.io.*;
-import javax.imageio.*;
-import java.awt.image.*; 
-import java.util.Scanner;
+import java.awt.CardLayout;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.awt.event.KeyEvent;
+import java.awt.event.KeyListener;
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.Timer;
 
 public class Game extends JFrame implements ActionListener{
 	private Timer myTimer; //determines how often the game updates

@@ -5,12 +5,14 @@
 //and images when the user presses the space bar when in certain distance, but it doesn't
 //change state or provide keys or other functions.
 
-import javax.swing.*;
-import java.awt.*;
-import java.io.*;
-import javax.imageio.*;
-import java.util.Scanner;
+import java.awt.Color;
+import java.awt.Font;
+import java.awt.Graphics;
+import java.awt.Image;
+import java.awt.Rectangle;
 import java.util.ArrayList;
+
+import javax.swing.ImageIcon;
 
 class Decoration{
 	//information for distinction, text and image display

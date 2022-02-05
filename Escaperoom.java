@@ -7,16 +7,17 @@
 //the interactions. This is also where the user can save their progress via their interaction
 //with SavePoint objects.
 
-import javax.swing.*;
-import java.awt.*;
-import java.awt.event.*;
-import java.io.*;
-import java.awt.image.*; 
-import javax.imageio.*;
-import java.util.Scanner;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.applet.*;
+import java.applet.AudioClip;
+import java.awt.Color;
+import java.awt.Dimension;
+import java.awt.Graphics;
+import java.awt.Image;
+import java.awt.Rectangle;
+import java.awt.event.KeyEvent;
+import java.awt.image.BufferedImage;
+
+import javax.swing.ImageIcon;
+import javax.swing.JPanel;
 
 public class Escaperoom extends JPanel{
 	//in-game objects

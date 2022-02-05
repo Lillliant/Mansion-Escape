@@ -7,18 +7,28 @@
 //components, and the processing of interactions between objects.
 //Also includes methods related to saving progresses in game.
 
-import javax.swing.*;
-import java.awt.*;
-import java.awt.event.*;
-import java.io.*;
-import javax.imageio.*;
-import java.awt.image.*; 
-import java.util.Scanner;
+import java.applet.Applet;
+import java.applet.AudioClip;
+import java.awt.Font;
+import java.awt.FontFormatException;
+import java.awt.Image;
+import java.awt.image.BufferedImage;
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.FilenameFilter;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.applet.Applet;
-import java.applet.AudioClip;
+import java.util.Scanner;
+
+import javax.imageio.ImageIO;
+import javax.swing.ImageIcon;
 
 public class Utilities {
 	

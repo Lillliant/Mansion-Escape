@@ -10,16 +10,20 @@
 //The setup of the room will change based on the room information it is
 //given at the Game class level.
 
-import javax.swing.*;
-import java.awt.*;
-import java.awt.event.*;
-import java.util.Scanner;
-import java.util.Hashtable;
+import java.applet.AudioClip;
+import java.awt.Dimension;
+import java.awt.Graphics;
+import java.awt.Image;
+import java.awt.event.KeyEvent;
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.applet.*;
-import java.io.*;
-import javax.imageio.*;
+import java.util.Scanner;
+
+import javax.swing.ImageIcon;
+import javax.swing.JPanel;
 
 public class Puzzle extends JPanel {
 	//the game objects in the room

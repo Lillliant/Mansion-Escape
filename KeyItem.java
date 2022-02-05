@@ -6,15 +6,15 @@
 //User needs to interact with it first via spacebar (keyboard) before
 //being able to input characters.
 
-import javax.swing.*;
-import java.awt.*;
-import java.awt.event.*;
-import java.io.*;
-import javax.imageio.*;
-import java.util.Scanner;
+import java.awt.Color;
+import java.awt.Font;
+import java.awt.Graphics;
+import java.awt.Image;
+import java.awt.Rectangle;
+import java.awt.event.KeyEvent;
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.nio.file.*;
+
+import javax.swing.ImageIcon;
 
 public class KeyItem {
 	
