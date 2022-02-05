@@ -1,0 +1,8 @@
+7
+drawer 480 200 -10 0 0 12 true
+rose 302 185 0 0 0 30 true
+bookshelf 395 163 0 0 10 12 true
+bookshelf 330 163 0 0 0 12 true
+carpet 448 250 0 0 0 0 false
+brunoDesk 269 178 -15 0 15 15 true
+tree 576 437 -15 -12 15 12 true 

@@ -1,2 +1,0 @@
-Flush the toilet? Y/N
-The toilet is flushed. It caused a big disturbance.

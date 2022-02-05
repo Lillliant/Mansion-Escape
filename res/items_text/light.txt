@@ -1,0 +1,2 @@
+Switch the light? Y/N
+You have switched the light.

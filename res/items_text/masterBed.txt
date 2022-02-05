@@ -1,0 +1,2 @@
+Rummage through the bed? Y/N
+The bed is now very messy.

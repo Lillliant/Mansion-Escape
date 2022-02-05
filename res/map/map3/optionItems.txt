@@ -1,0 +1,11 @@
+9
+light 200 180 -10 0 20 10 true true false 1 false
+trashcan 234 195 0 0 10 20 true false false 1 true light
+chair 255 300 -10 -10 10 20 true true false 1 false
+cabinet 474 432 0 -15 0 15 true true false 1 false
+cabinet 411 432 -15 -15 15 15 true true false 1 false
+cabinet 538 432 0 -15 0 15 true true false 1 false
+stove 496 188 0 0 0 15 true true false 1 false
+tabletop 431 185 5 0 -15 15 true true false 1 false
+stove 529 188 0 0 15 15 true true false 1 false
+

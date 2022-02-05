@@ -1,2 +1,0 @@
-Play with the stove? Y/N
-It's a bad idea so you didn't do it.

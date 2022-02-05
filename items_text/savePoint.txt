@@ -1,2 +1,0 @@
-Do you want to save? Y/N
-Your previous venture has been overwritten.

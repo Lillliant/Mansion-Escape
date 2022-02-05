@@ -1,0 +1,16 @@
+15
+tree 394 78 0 0 20 20 true
+tree 765 78 -20 0 25 20 true
+wiltedFlower 765 459 -20 -20 20 25 true
+wiltedFlower 394 459 0 -20 20 25 true
+tropicalTree 492 1378 0 0 0 20 true
+chandelier 359 1263 -20 -20 40 20 true
+tree 2 1368 -5 0 25 20 true
+wiltedFlower 2 1787 -5 -20 25 20 true 
+wiltedFlower 394 1787 -20 -20 25 20 true
+tropicalTree 751 1672 -15 0 15 20 true
+bookshelf 795 1642 0 0 0 20 true
+miscShelf 860 1642 0 0 0 20 true
+bookshelf 925 1642 0 0 0 20 true
+miscShelf 990 1642 0 0 0 20 true
+bookshelf 1055 1642 0 0 0 20 true

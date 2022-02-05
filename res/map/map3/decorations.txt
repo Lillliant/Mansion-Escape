@@ -1,0 +1,9 @@
+8
+rose 585 185 0 0 0 30 true
+carpet 550 270 0 0 0 0 false
+chandelier 625 402 -10 -10 10 15 true
+mirror 270 160 0 0 0 40 false
+table 280 303 0 -15 10 30 true
+tree 155 386 -5 -10 20 15 true
+desktop 300 188 -5 0 5 15 true
+desktop 365 188 0 0 0 15 true

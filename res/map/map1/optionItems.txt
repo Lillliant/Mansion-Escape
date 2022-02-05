@@ -1,0 +1,9 @@
+8
+light 200 180 -10 0 20 10 true true false 1 false
+masterBed 360 178 -10 0 25 15 true true false 0 false
+shelf 317 158 -10 0 10 15 true true false 1 false
+tv 465 138 -10 0 10 15 true false true 2 true shelf 1
+closet 200 472 0 -15 0 15 true true false 1 false
+closet 251 472 0 -15 0 15 true true false 1 false
+closet 302 472 0 -15 15 15 true true false 1 false
+carpet1 237 250 0 0 0 0 false true false 1 false

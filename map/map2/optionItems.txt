@@ -1,6 +1,0 @@
-5
-tabletop 385 183 0 0 0 20 true true false 1 false
-toilet 483 180 -10 0 20 20 true true false 1 false
-shower 522 135 0 0 0 20 true false true 3 true toilet
-closet 549 321 0 -15 0 15 true true false 1 false
-closet 498 321 0 -15 0 15 true true false 1 false
