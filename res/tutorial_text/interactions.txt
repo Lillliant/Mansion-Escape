@@ -1,6 +1,0 @@
-Press the arrow keys to move the player around, and click the space bar to interact with the objects in the game. Remember to keep your player close so you can access the objects!
-
-When walking in the hallways, keep a close eye to your surroundings. Monsters might roam around the hallways, 
-and they will kill your player if you get too close to them. Fortunately, they seems to be unaware of your movements if you are not touching them.
-
-Look out for the friendly ghosts. They're always happy to keep a record of your journey!

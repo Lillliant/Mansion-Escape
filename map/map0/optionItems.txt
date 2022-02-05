@@ -1,0 +1,5 @@
+4
+light 200 180 -10 0 20 10 true true false 1 false
+bed 557 200 -10 0 10 20 true false true 0 true light
+closet 468 471 -15 -15 15 15 true true false 0 false
+carpet1 240 355 0 0 0 0 false true false 0 false
