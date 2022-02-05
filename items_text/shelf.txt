@@ -1,2 +1,0 @@
-There's a remote control in the shelf. Control the tv? Y/N
-You pressed the buttons to control the tv.

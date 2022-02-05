@@ -1,2 +1,0 @@
-The tv is turned on. Switch the channel? Y/N
-The tv is playing a new tv show.

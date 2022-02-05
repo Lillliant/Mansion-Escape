@@ -1,2 +1,0 @@
-Wash your hands? Y/N
-Your hands are clean now.
